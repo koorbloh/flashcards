@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/data/p4/z2_unity_prototyping/flash cards/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7f3290b4225fcf16d4e27cc8cccfbd6b756b0fe">
+        <dex dex="/data/p4/z2_unity_prototyping/flash cards/Temp/gradleOut/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>

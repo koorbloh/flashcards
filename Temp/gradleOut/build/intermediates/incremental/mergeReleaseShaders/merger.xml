@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/data/p4/z2_unity_prototyping/flash cards/Temp/gradleOut/src/main/shaders"/></dataSet><dataSet config="release"><source path="/data/p4/z2_unity_prototyping/flash cards/Temp/gradleOut/src/release/shaders"/></dataSet></merger>
